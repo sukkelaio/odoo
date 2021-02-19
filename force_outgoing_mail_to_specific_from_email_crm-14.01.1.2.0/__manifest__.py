@@ -20,4 +20,5 @@ CRM: Outgoing Mail
     'installable': True,
     'application': True,
     'auto_install': False,
+    'images': ['static/description/sukkela_200_high_rounded.png'],
 }
