@@ -5,7 +5,7 @@
     'version': '14.0.1.2.0',
     'sequence': 1,
     'category': 'Mail',
-     'summary': 'Set "From" email address in outgoing email to be the same as your outgooing email server email address.',
+     'summary': 'Set "From" email address in outgoing email to be the same as your outgoing email server email address.',
     'description': '''
 CRM: Outgoing Mail
 ======================
