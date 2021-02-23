@@ -5,11 +5,11 @@
     'version': '14.0.1.2.0',
     'sequence': 1,
     'category': 'Mail',
-    'summary': 'Outgoing email set from email alwasys be outgoing mail server.',
+     'summary': 'Set "From" email address in outgoing email to be the same as your outgooing email server email address.',
     'description': '''
 CRM: Outgoing Mail
 ======================
-* Outgoing email set from email alwasys be outgoing mail server.
+* Forces the "From" email address to be the same as your outgoing email.
     ''',
     'depends': ['mail'],
     'author': "sukkela.io<info@sukkela.io>",
